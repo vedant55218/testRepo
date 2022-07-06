@@ -1,2 +1,2 @@
-Change1 in File1
-Chnage2 in File2
+Change 1 in File1
+Chnage 2 in File2
